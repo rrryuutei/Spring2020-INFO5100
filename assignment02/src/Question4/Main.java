@@ -12,7 +12,7 @@ public class Main {
         }
     }
 
-    public static void exchage(Player[] play,int i,int j) {
+    public static void exchange(Player[] play,int i,int j) {
         Player temp = play[i];
         play[i] = play[j];
         play[j] = temp;

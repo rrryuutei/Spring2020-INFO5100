@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/INFO5100.iml" filepath="$PROJECT_DIR$/.idea/INFO5100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Midterm.iml" filepath="$PROJECT_DIR$/Midterm/Midterm.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignment01/assignment01.iml" filepath="$PROJECT_DIR$/assignment01/assignment01.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignment02/assignment02.iml" filepath="$PROJECT_DIR$/assignment02/assignment02.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignment03/assignment03.iml" filepath="$PROJECT_DIR$/assignment03/assignment03.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignment3/assignment3.iml" filepath="$PROJECT_DIR$/assignment3/assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz01/midterm.iml" filepath="$PROJECT_DIR$/quiz01/midterm.iml" />
       <module fileurl="file://$PROJECT_DIR$/quiz01/quiz01.iml" filepath="$PROJECT_DIR$/quiz01/quiz01.iml" />
       <module fileurl="file://$PROJECT_DIR$/quiz1/quiz1.iml" filepath="$PROJECT_DIR$/quiz1/quiz1.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
