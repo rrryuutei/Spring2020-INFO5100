@@ -4,10 +4,10 @@ public class Main {
 
     public static void compare(Player[] play,int i,int j) {
         if( play[i].getScore()>play[j].getScore() ) {
-            exchage(play, i, j);
+            exchange(play, i, j);
         }else if( play[i].getScore()==play[j].getScore() ) {
             if( play[i].getName().compareTo(play[j].getName())>0 ) {
-                exchage(play, i, j);
+                exchange(play, i, j);
             }
         }
     }
